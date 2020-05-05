@@ -18,7 +18,7 @@
 
     <div id="menu">
         <ul>
-            <li><a href="">Trang trủ</a></li>
+            <li><a href="">Trang chủ</a></li>
             <li><a href="">Sale off</a></li>
             <li><a href="">Giày nam</a></li>
             <li><a href="">Giày nữ</a></li>
